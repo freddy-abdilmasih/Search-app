@@ -1,2 +1,7 @@
-# search_app
-Search app created with HTML/CSS/SASS/JavaScript and Wikipedia API
+Search App Clone
+
+-Created with HTML/CSS/Sass/JavaScript and Wikipedia API
+-Responsive
+-Mobile First
+-Accessibility
+-Fetch API (Async / Await)
